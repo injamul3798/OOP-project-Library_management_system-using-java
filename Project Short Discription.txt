@@ -3,20 +3,20 @@ Library Management System  by
 
 By using this project ,we can do various work .Lets Discuss about that.
 Two parts of this project.
-1.Admin Login 
+#1.Admin Login 
 Ater log in this page, we will go admin section page where we can do
 a.Add librarian
 b.Delete librarian
 b.view Librarian
 
 Another section is 
-2.Librarian logIn
+#2.Librarian logIn
 After log in this page we will able to do varius work such as
 a.Add Books
 b.Return books
 c.View books
 
-Project Done by
+#Project Done by
 Injamul Haque
 Dept. of CSE,DIU.
 
